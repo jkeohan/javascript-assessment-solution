@@ -1,0 +1,16 @@
+{
+  "name": "javascript-assessment-solution",
+  "version": "1.0.0",
+  "description": "For this assignment, we'll be working with an Instagram-style domain. We have two models - Image and Comment. For our purposes, an Image has many Comments, and a Comment belongs to an Image.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.19.0",
+    "eslint-config-airbnb-base": "^11.2.0",
+    "eslint-plugin-import": "^2.7.0"
+  }
+}
