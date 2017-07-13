@@ -15,7 +15,7 @@ class Comment {
   }
 
   commentEl() {
-    return `<li class='comment-${this.id}'>${this.comment}</li>`;
+    return `<li id='comment-${this.id}'>${this.comment}</li>`;
   }
 }
 
